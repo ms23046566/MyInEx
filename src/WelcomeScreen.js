@@ -101,7 +101,7 @@ export default function WelcomeScreen({navigation}) {
             </View>
             <View style={styles.section1}>
                 <Text style={styles.title}>
-                    MyInEx is an Income-Expense Traccer and It is for You All who with to Track Incomes and Expenses in Comprehensive way. Hope this Help.
+                    MyInEx is an Income-Expense Tracker and It is for You All who with to Track Incomes and Expenses in Comprehensive way. Hope this Help.
                 </Text>
                 <Text style={styles.title}>
 
@@ -124,8 +124,8 @@ export default function WelcomeScreen({navigation}) {
 
                     <View style={styles.featureSection1}>
                         <Text style={styles.title}>
-                            The title and onPress handler are required. It is recommended to set
-                            accessibilityLabel to help make your app usable by everyone.
+                            This shows a comprehensive statistical view of the data of your incomes and expenses. You can easily view these data
+                            according your given date durations.
                         </Text>
                         <Text style={styles.title}>
 
@@ -151,8 +151,7 @@ export default function WelcomeScreen({navigation}) {
 
                     <View style={styles.featureSection1}>
                         <Text style={styles.title}>
-                            The title and onPress handler are required. It is recommended to set
-                            accessibilityLabel to help make your app usable by everyone.
+                            Enter a new Transaction record. You can add your income and expense records in here.
                         </Text>
                         <Text style={styles.title}>
 
@@ -178,8 +177,7 @@ export default function WelcomeScreen({navigation}) {
 
                     <View style={styles.featureSection1}>
                         <Text style={styles.title}>
-                            The title and onPress handler are required. It is recommended to set
-                            accessibilityLabel to help make your app usable by everyone.
+                            You can see all of your transaction records from here and also ou can manage those as well.
                         </Text>
                         <Text style={styles.title}>
 
